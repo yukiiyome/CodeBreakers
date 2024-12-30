@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 867, in script
+    jump lab_20lusright
+ScriptError: could not find label 'lab_20lusright'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 867, in script
+    jump lab_20lusright
+  File "C:\novel\CHIVYAYVA-1.0-dists\CHIVYAYVA-1.0-pc\renpy\ast.py", line 1699, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\novel\CHIVYAYVA-1.0-dists\CHIVYAYVA-1.0-pc\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'lab_20lusright'.
+
+Windows-10-10.0.19045 AMD64
+Ren'Py 8.3.0.24082114
+Not named 1.0
+Mon Dec 30 18:37:22 2024

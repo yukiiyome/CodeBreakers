@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 840: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Идем драться с Вирусом!"
+                             ^
+
+File "game/script.rpy", line 924: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Идем драться с Вирусом!"
+                             ^
+
+File "game/script.rpy", line 945: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Идем драться с Вирусом!"
+                             ^
+
+Ren'Py Version: Ren'Py 8.3.0.24082114
+Mon Dec 30 19:08:38 2024
