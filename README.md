@@ -1,2 +1,1 @@
-Nope)
-
+Code was written by Artyom Khaibulin 
